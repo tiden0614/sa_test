@@ -3,7 +3,7 @@
 
 import sys
 
-N = 15
+N = 2000
 factors = [6, 7]
 multiples = []
 

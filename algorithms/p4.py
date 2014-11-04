@@ -28,4 +28,4 @@ if '__main__' == __name__:
     if len(sys.argv) > 1:
         N = int(sys.argv[1])
     store_matrix = [[-1 for n in xrange(N + 1)] for m in xrange(len(a))]
-    print f(len(a), N)
+    print f(len(a), N) % 1000000
