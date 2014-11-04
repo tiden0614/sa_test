@@ -1,7 +1,7 @@
 from django.shortcuts import render
-import django.template
+import urllib2
 
 # Create your views here.
 def index(request):
-    context = { 'message': 'test' }
+    context = { 'v_title': 'Top Stories On HackerNews' }
     return render(request, 'sa/index.html', context)
