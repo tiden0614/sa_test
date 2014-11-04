@@ -9,7 +9,7 @@ should print
   >wvttssrrniiheeeda
 
 #Django
-Please note that when you start Django, the url of the solotion is **/**
+Please note that when you start Django, the url of the solution is **/**
 
 For example:
   >**http://127.0.0.1:8000/**
