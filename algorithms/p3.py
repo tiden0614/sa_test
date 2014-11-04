@@ -1,6 +1,11 @@
 #!/usr/bin/python
 #coding: utf-8
 
+#This script prints the reversed order of a given string
+#For easy implementation, it employs the insertion sort algorithm, of which the time complexity is O(n^2)
+#It could be improved using quick sort or merge sort
+#However in a interview test, time is limited for testing the more complicated algorithms
+
 import sys
 
 
