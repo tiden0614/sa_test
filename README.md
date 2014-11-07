@@ -6,7 +6,7 @@
   * Tools: Emmet(zen coding), Chrome developer tools
 
 2. How would you approach optimizing a website's perceived or actual load time?
-  * SDN for images, css and javascripts
+  * CDN for images, css and javascripts
   * Using ajax for dynamic loading data
   * Compress css and javascript files
   * Be careful about javascript libraries (cut down unused features in popular libraries)
