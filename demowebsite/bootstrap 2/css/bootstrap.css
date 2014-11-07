@@ -2117,8 +2117,8 @@ th {
 .table-bordered > thead > tr > td {
   border-bottom-width: 2px;
 }
-.table-striped > tbody > tr:nth-child(odd) {
-  background-color: #f9f9f9;
+.table-striped > tbody > tr:nth-child(even) {
+  background-color: #0d403f;
 }
 .table-hover > tbody > tr:hover {
   background-color: #f5f5f5;
